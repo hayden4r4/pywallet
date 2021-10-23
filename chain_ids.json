@@ -1,0 +1,9 @@
+{
+  "mainnet": 1,
+  "expanse": 2,
+  "ropsten": 3,
+  "rinkedby": 4,
+  "goerli": 5,
+  "kovan": 42,
+  "geth": 1337
+}
